@@ -27,4 +27,4 @@ to work in Singapore's cybersecurity industry.
 SOC Analyst / Junior Security Engineer roles in Singapore
 
 ### Connect
-[LinkedIn](https://www.linkedin.com/in/pyaesonehtun787945/) | [TryHackMe](your-tryhackme-link)
+[LinkedIn](https://www.linkedin.com/in/pyaesonehtun787945/) | [TryHackMe](https://tryhackme.com/p/ptun777)
